@@ -1,0 +1,10 @@
+.registration-form {
+  width: 36rem;
+
+  button:hover {
+    i {
+      transform: translateX(20%);
+      transition-duration: 300ms;
+    }
+  }
+}

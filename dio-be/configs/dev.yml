@@ -1,0 +1,5 @@
+environment: DEV
+port: 8080
+url:
+dbUrl: mongodb://localhost:27017
+dbName: dio
